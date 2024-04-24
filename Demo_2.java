@@ -6,9 +6,9 @@
 public class Demo_2
 {
 
-   public static void main(String[] args)
-   {
-     // Netzwerk-Interfaces ausgeben
-     DisplayInterfaces.display();
-   }
+ public static void main(String[] args)
+ {
+  // Netzwerk-Interfaces ausgeben
+  DisplayInterfaces.display();
+ }
 }
