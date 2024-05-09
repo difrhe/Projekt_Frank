@@ -19,6 +19,7 @@ public class Demo_1
 
   Calendar calendar = Calendar.getInstance();
   System.console().printf("%s\n", DateFormat.getDateTimeInstance().format(calendar.getTime()) );
+  System.out.println();
 
  }
 }
