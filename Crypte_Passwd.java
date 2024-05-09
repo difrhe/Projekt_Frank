@@ -1,5 +1,8 @@
+//=========================================
 // package org;
 // 09-05-2024
+// (c) 2008 by Frank Hessemer
+//=========================================
 
 import org.apache.xerces.impl.dv.util.Base64;
 import java.security.MessageDigest;
